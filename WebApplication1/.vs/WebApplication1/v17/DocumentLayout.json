@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silve\\Desktop\\Coding Challenge Suris\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D573B2A7-E1A1-4C71-B300-E7A86E7916FD}|WebApplication1\\WebApplication1.csproj|c:\\users\\silve\\desktop\\coding challenge suris\\webapplication1\\webapplication1\\controllers\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D573B2A7-E1A1-4C71-B300-E7A86E7916FD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573B2A7-E1A1-4C71-B300-E7A86E7916FD}|WebApplication1\\WebApplication1.csproj|c:\\users\\silve\\desktop\\coding challenge suris\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D573B2A7-E1A1-4C71-B300-E7A86E7916FD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573B2A7-E1A1-4C71-B300-E7A86E7916FD}|WebApplication1\\WebApplication1.csproj|c:\\users\\silve\\desktop\\coding challenge suris\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D573B2A7-E1A1-4C71-B300-E7A86E7916FD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Silve\\Desktop\\Coding Challenge Suris\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Silve\\Desktop\\Coding Challenge Suris\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:01:10.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainController.cs",
+              "DocumentMoniker": "C:\\Users\\Silve\\Desktop\\Coding Challenge Suris\\WebApplication1\\WebApplication1\\Controllers\\TrainController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TrainController.cs",
+              "ToolTip": "C:\\Users\\Silve\\Desktop\\Coding Challenge Suris\\WebApplication1\\WebApplication1\\Controllers\\TrainController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TrainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:20:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Silve\\Desktop\\Coding Challenge Suris\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Silve\\Desktop\\Coding Challenge Suris\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:23:08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
